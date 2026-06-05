@@ -1,0 +1,6 @@
+litellm
+langchain
+langchain-community
+langchain-openai
+langchain-litellm
+python-dotenv
